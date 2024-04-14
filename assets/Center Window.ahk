@@ -1,5 +1,3 @@
-; CenterWindow.ahk - Center the active window on the screen by pressing the left shift key three times in 5 seconds.
-
 #SingleInstance force
 
 shiftCount := 0
